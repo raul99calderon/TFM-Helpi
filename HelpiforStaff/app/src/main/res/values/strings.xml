@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Helpi for Staff</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_events">Events</string>
+    <string name="title_email" translatable="false">Email</string>
+    <string name="title_password">Password</string>
+    <string name="title_login">Login</string>
+    <string name="login_welcome">Welcome,</string>
+    <string name="login_error">Error in login</string>
+    <string name="sign_out">Sign out</string>
+    <string name="signed_out">Signed out correctly</string>
+    <string name="required">Required</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="person_name">Your name</string>
+    <string name="add_user">Add organization user</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign up</string>
+    <string name="profile">Profile</string>
+    <string name="confirm">Confirm</string>
+    <string name="continue_email">Continue with email</string>
+    <string name="login_google">Continue with Google</string>
+    <string name="orgs">My organizations</string>
+    <string name="org_requests">Organization requests</string>
+    <string name="date_time_format" translatable="false">yyyy-MM-dd HH:mm</string>
+    <string name="event_not_started">The event hasn\'t started yet. When the time comes, re-enter this screen to be able to confirm the attendance of the participants.</string>
+    <string name="confirm_user_assist">Confirm user assist</string>
+    <string name="error_not_user_role">This user is not an user role</string>
+    <string name="error_email_not_exists">This email does not exists</string>
+    <string name="attendance_already_confirmed">Attendance for this user has already been confirmed</string>
+    <string name="user_was_not_accepted">This user was not accepted to come to this event</string>
+    <string name="user_not_requested_join">This user have not requested to join the event</string>
+    <string name="attendance_confirmed_correctly">" has been confirmed correctly to have attended the event"</string>
+    <string name="error_confirming_attendance">"Error confirming "</string>
+    <string name="attend">" attend"</string>
+    <string name="package_maps" translatable="false">com.google.android.apps.maps</string>
+    <string name="account_deleted_correctly">Account deleted correctly</string>
+    <string name="nothing_changed">You have changed nothing</string>
+    <string name="error_updating_profile">Error updating your profile, please try again</string>
+    <string name="profile_updated_correctly">Profile updated correctly</string>
+    <string name="larger_size">The size of selected image is greater than 1 MB. Please, select another one and try again</string>
+    <string name="event_details">Event details</string>
+    <string name="organization_details">Organization details</string>
+    <string name="organization_requests">Organization requests</string>
+    <string name="login_email">Login with email</string>
+    <string name="register_error">Error on register</string>
+</resources>

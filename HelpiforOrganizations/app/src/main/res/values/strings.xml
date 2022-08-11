@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Helpi for Organizations</string>
+    <string name="title_events">Our events</string>
+    <string name="title_news">Our news</string>
+    <string name="title_staff">Our staff</string>
+    <string name="title_email" translatable="false">Email</string>
+    <string name="title_login">Login</string>
+    <string name="login_welcome">Welcome,</string>
+    <string name="login_error">Error in login</string>
+    <string name="sign_out">Sign out</string>
+    <string name="signed_out">Signed out correctly</string>
+    <string name="required">Required</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="person_name">Your name</string>
+    <string name="add_user">Add organization user</string>
+    <string name="register">Register</string>
+    <string name="register_error">Error in register</string>
+    <string name="sign_up">Sign up</string>
+    <string name="organization_staff_request_created">A request to staff has been sent</string>
+    <string name="created_request">A request to create an organization has been sent. Once accepted by an administrator, you will be able to log in.</string>
+    <string name="profile">Profile</string>
+    <string name="uri">Url of your image</string>
+    <string name="search_image">Search image</string>
+    <string name="save_profile">Save profile</string>
+    <string name="add_staff_title">Send request to staff</string>
+    <string name="not_valid">Email is not valid</string>
+    <string name="staff_not_exists">This user is not staff</string>
+    <string name="user_not_exists">This email does not exist</string>
+    <string name="staff_already_in_organization">This user already belongs to your organization</string>
+    <string name="request_already_exists">You have already sent a request to this user</string>
+    <string name="error_try_again">There was an error. Please, try again</string>
+    <string name="continue_email">Continue with email</string>
+    <string name="login_google">Continue with Google</string>
+    <string name="staff_requests">Staff requests</string>
+    <string name="staff_deleted">Staff deleted successfully</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_activity_tabbed" translatable="false">TabbedActivity</string>
+    <string name="tab_staff" translatable="false">Staff</string>
+    <string name="tab_staff_requests">Staff requests</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="event_name">Event name</string>
+    <string name="description_event">Event description</string>
+    <string name="event_ubication">Event ubication</string>
+    <string name="date_time">Start date and time</string>
+    <string name="create_event">Create event</string>
+    <string name="max_participants">Max participants</string>
+    <string name="title_name">Name</string>
+    <string name="title_description">Description</string>
+    <string name="title_location">Location</string>
+    <string name="title_max_participants">Max participants</string>
+    <string name="title_date_time">Date and time</string>
+    <string name="delete">Delete event</string>
+    <string name="edit">Edit event</string>
+    <string name="select_location">Select location</string>
+    <string name="wait_confirm">Waiting confirmation</string>
+    <string name="date_time_format" translatable="false">yyyy-MM-dd HH:mm</string>
+    <string name="update_event">Update event</string>
+    <string name="event_created_correctly">Event created correctly</string>
+    <string name="event_updated_correctly">Event updated correctly</string>
+    <string name="deny_all">Deny all</string>
+    <string name="accept_all">Accept all</string>
+    <string name="new_body">Body of the new</string>
+    <string name="notice_title">Title</string>
+    <string name="notice_body">Notice body</string>
+    <string name="create_notice">Publish notice</string>
+    <string name="insert_image">Insert image</string>
+    <string name="delete_account">Delete account</string>
+    <string name="notice_published">Notice published correctly</string>
+    <string name="error_uploading_image">There was an error uploading your image</string>
+    <string name="larger_image_2MB">The size of selected image is greater than 2 MB. Please, select another one and try again</string>
+    <string name="error_publishing_notice">Error publishing notice</string>
+    <string name="url_api_positionstack" translatable="false">http://api.positionstack.com</string>
+    <string name="wrong_fields">You have wrong fields</string>
+    <string name="do_not_edit_event_started">You can not edit the event once the event has started</string>
+    <string name="key_positionstack" translatable="false">b2285cf18ae00443ea8dc2f48d57ae28</string>
+    <string name="no_seconds_format" translatable="false">yyyy-MM-dd HH:mm</string>
+    <string name="ssl" translatable="false">SSL</string>
+    <string name="wait_to_confirmation">When an admin confirm your registration, you will be able to login. Try to login again later</string>
+    <string name="response">"Response "</string>
+    <string name="correct">" correct"</string>
+    <string name="incorrect">" incorrect"</string>
+    <string name="package_maps" translatable="false">com.google.android.apps.maps</string>
+    <string name="error_deleting_event">Error deleting event</string>
+    <string name="delete_event">Delete event</string>
+    <string name="delete_event_question">Are you sure you want to delete this event?</string>
+    <string name="yes">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="accept_pending_requests">Accept all pending requests</string>
+    <string name="accept_pending_requests_questions">Are you sure you want to ACCEPT all pending requests?</string>
+    <string name="deny_all_pending">Deny all pending requests</string>
+    <string name="deny_all_pending_question">Are you sure you want to DENY all pending requests?</string>
+    <string name="registration_completed">Registration completed. When an admin confirm your registration, you will be able to login. Try to login again later</string>
+    <string name="notice_deleted_correctly">Notice deleted correctly</string>
+    <string name="error_deleting_notice">Erorr deleting notice</string>
+    <string name="delete_notice">Delete notice</string>
+    <string name="delete_notice_question">Are you sure you want to delete this notice?</string>
+    <string name="account_deleted_correctly">Account deleted correctly</string>
+    <string name="nothing_changed">You have changed nothing</string>
+    <string name="error_updating_profile">Error updating your profile, please try again</string>
+    <string name="profile_updated_correctly">Profile updated correctly</string>
+    <string name="larger_size">The size of selected image is greater than 1 MB. Please, select another one and try again</string>
+    <string name="notice_details">Notice details</string>
+    <string name="event_details">Event details</string>
+    <string name="request_in_progress">There is a request in progress. When accepted by an administrator, you will be able to access the application.</string>
+    <string name="error_create_event">Error creating event</string>
+    <string name="error_update_event">Error updating event</string>
+    <string name="error_general">There was an error</string>
+</resources>

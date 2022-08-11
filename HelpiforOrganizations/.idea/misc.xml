@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable-ldpi/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable-ldpi/ic_organization_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable-mdpi/round_bg.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable-v24/ic_event_24dp.xml" value="0.3395" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.33" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.212" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.303" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.106" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.303" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.303" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_clock_24.xml" value="0.106" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_clock_36.xml" value="0.303" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.294" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_gone_24.xml" value="0.294" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_gpp_good_24.xml" value="0.294" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_person_124.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/drawable/ic_baseline_stars_24.xml" value="0.1685" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_add_staff.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_bottom_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_create_event.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_create_new.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_create_notice.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_create_update_event.xml" value="0.33" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_email_login.xml" value="0.33" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_event_details.xml" value="0.5930918281381634" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_join_requests.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_notice_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_staff_requests.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_tabbed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/activity_wait_confirmation.xml" value="0.5" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_events.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_notices.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_requests_tab.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_staff.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_staff_tab.xml" value="0.3703125" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_tab.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/fragment_tabbed.xml" value="0.3" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/item_event.xml" value="0.67" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/item_event_request.xml" value="0.75" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/item_new.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/item_notice.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/item_organization_staff_request.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/item_staff.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/layout/profile_actionbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/menu/event_details_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/menu/notice_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/menu/overflow.xml" value="0.1" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/menu/pending_requests_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/menu/profile_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.33" />
+        <entry key="..\:/Users/raul9/AndroidStudioProjects/HelpiforOrganizations/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

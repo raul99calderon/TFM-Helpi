@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Helpi Admin</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_events">Events</string>
+    <string name="title_email" translatable="false">Email</string>
+    <string name="title_password">Password</string>
+    <string name="title_login">Login</string>
+    <string name="login_welcome">Welcome,</string>
+    <string name="login_error">Error in login</string>
+    <string name="sign_out">Sign out</string>
+    <string name="signed_out">Signed out correctly</string>
+    <string name="required">Required</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="person_name">Your name</string>
+    <string name="add_user">Add organization user</string>
+    <string name="auth_failed">Authentication failed.</string>
+
+    <string name="name_org">Organization name</string>
+    <string name="email_org">Organization email</string>
+    <string name="confirm">Confirm</string>
+    <string name="profile">Profile</string>
+    <string name="continue_email">Continue with email</string>
+    <string name="nothing_changed">You have changed nothing</string>
+    <string name="error_updating_profile">Error updating your profile, please try again</string>
+    <string name="profile_updated_correctly">Profile updated correctly</string>
+    <string name="larger_size">The size of selected image is greater than 1 MB. Please, select another one and try again</string>
+    <string name="organization_confirmed">Organization confirmed correctly</string>
+    <string name="error_confirming">Error confirming correctly</string>
+</resources>

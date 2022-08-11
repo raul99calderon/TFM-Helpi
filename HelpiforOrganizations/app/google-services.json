@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "270444172418",
+    "firebase_url": "https://helpi-1dffc-default-rtdb.firebaseio.com",
+    "project_id": "helpi-1dffc",
+    "storage_bucket": "helpi-1dffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270444172418:android:33c4d9215bc177f769d09b",
+        "android_client_info": {
+          "package_name": "es.upm.miw.helpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270444172418-433shr3s0uvumviv824tq7ra1c0jo8ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpi",
+            "certificate_hash": "e6ff12c530db6dba1835244e88bbfbd493246998"
+          }
+        },
+        {
+          "client_id": "270444172418-j96g7vkh42jh6g9eou2j6ksqa1jevhdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpi",
+            "certificate_hash": "d1fe7bcc97ab534c601c7f20d645e822edb0ad39"
+          }
+        },
+        {
+          "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFmzHo2tt_EYC6Xupn8W-14bVD3JZj-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270444172418:android:9357b1d30e3ceb4969d09b",
+        "android_client_info": {
+          "package_name": "es.upm.miw.helpiadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270444172418-4pkh9atk5bebimm34427asqlshj14rv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpiadmin",
+            "certificate_hash": "e6ff12c530db6dba1835244e88bbfbd493246998"
+          }
+        },
+        {
+          "client_id": "270444172418-rreano7tuau1fk1m1r1hc3ovl26ma9e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpiadmin",
+            "certificate_hash": "d1fe7bcc97ab534c601c7f20d645e822edb0ad39"
+          }
+        },
+        {
+          "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFmzHo2tt_EYC6Xupn8W-14bVD3JZj-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270444172418:android:fd8900f070de8a3969d09b",
+        "android_client_info": {
+          "package_name": "es.upm.miw.helpifororganizations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270444172418-3jm95dc9lcja1dsdolda8ukgtqq0kp8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpifororganizations",
+            "certificate_hash": "e6ff12c530db6dba1835244e88bbfbd493246998"
+          }
+        },
+        {
+          "client_id": "270444172418-osgh0a7vnj7i5q4r6ee7acisq5eknv5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpifororganizations",
+            "certificate_hash": "d1fe7bcc97ab534c601c7f20d645e822edb0ad39"
+          }
+        },
+        {
+          "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFmzHo2tt_EYC6Xupn8W-14bVD3JZj-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270444172418:android:fa1db17e9a0fef5d69d09b",
+        "android_client_info": {
+          "package_name": "es.upm.miw.helpiforstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270444172418-3gajga4sd8o6p7gdqc1dsj9i7b1mae7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpiforstaff",
+            "certificate_hash": "e6ff12c530db6dba1835244e88bbfbd493246998"
+          }
+        },
+        {
+          "client_id": "270444172418-qs9aalhaia52fknqp0k7fm7oameouekf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.miw.helpiforstaff",
+            "certificate_hash": "d1fe7bcc97ab534c601c7f20d645e822edb0ad39"
+          }
+        },
+        {
+          "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFmzHo2tt_EYC6Xupn8W-14bVD3JZj-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270444172418-o9aod2jvu5k41v3nnnuc1kgefum7sv8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

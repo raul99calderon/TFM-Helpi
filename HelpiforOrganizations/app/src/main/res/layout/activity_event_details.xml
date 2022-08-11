@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EventDetailsActivity">
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/round_bg">
+
+                <TextView
+                    android:id="@+id/tvEventName"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:text="@android:string/unknownName"
+                    android:textColor="@color/red_1"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/ivPhoto"
+                    app:layout_constraintTop_toTopOf="@+id/ivPhoto" />
+
+                <ImageView
+                    android:id="@+id/ivOrg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="18dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="2dp"
+                    app:layout_constraintStart_toEndOf="@+id/ivPhoto"
+                    app:layout_constraintTop_toBottomOf="@+id/tvEventName"
+                    app:srcCompat="@drawable/ic_organization_24dp"
+                    app:tint="@color/grey_1" />
+
+                <ImageView
+                    android:id="@+id/ivLocation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="18dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="2dp"
+                    app:layout_constraintStart_toEndOf="@+id/ivPhoto"
+                    app:layout_constraintTop_toBottomOf="@+id/ivOrg"
+                    app:srcCompat="@drawable/ic_baseline_location_on_24"
+                    app:tint="@color/grey_0" />
+
+                <TextView
+                    android:id="@+id/tvLocation"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_marginStart="4dp"
+                    android:gravity="center_vertical"
+                    android:text="@android:string/unknownName"
+                    app:layout_constraintBottom_toBottomOf="@+id/ivLocation"
+                    app:layout_constraintEnd_toStartOf="@+id/btnMap"
+                    app:layout_constraintStart_toEndOf="@+id/ivLocation"
+                    app:layout_constraintTop_toTopOf="@+id/ivLocation" />
+
+                <ImageView
+                    android:id="@+id/ivCalendar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="18dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="4dp"
+                    app:layout_constraintBottom_toTopOf="@+id/ivPerson"
+                    app:layout_constraintStart_toEndOf="@+id/ivPhoto"
+                    app:layout_constraintTop_toBottomOf="@+id/ivLocation"
+                    app:srcCompat="@drawable/ic_baseline_calendar_month_24"
+                    app:tint="@color/grey_0" />
+
+                <TextView
+                    android:id="@+id/tvDateTime"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_marginStart="4dp"
+                    android:gravity="center_vertical"
+                    android:text="@android:string/unknownName"
+                    app:layout_constraintBottom_toBottomOf="@+id/ivCalendar"
+                    app:layout_constraintEnd_toEndOf="@+id/tvOrganizationName"
+                    app:layout_constraintStart_toEndOf="@+id/ivCalendar"
+                    app:layout_constraintTop_toTopOf="@+id/ivCalendar" />
+
+                <TextView
+                    android:id="@+id/tvOrganizationName"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_marginStart="4dp"
+                    android:gravity="center_vertical"
+                    android:text="@android:string/unknownName"
+                    android:textSize="14sp"
+                    app:layout_constraintBottom_toBottomOf="@+id/ivOrg"
+                    app:layout_constraintEnd_toEndOf="@+id/tvLocation"
+                    app:layout_constraintStart_toEndOf="@+id/ivOrg"
+                    app:layout_constraintTop_toTopOf="@+id/ivOrg" />
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/ivPhoto"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@color/red_1"
+                    android:scaleType="centerCrop"
+                    android:visibility="visible"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:shapeAppearanceOverlay="@style/roundedImageViewRounded"
+                    app:srcCompat="@drawable/ic_baseline_person_124" />
+
+                <ImageButton
+                    android:id="@+id/btnMap"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_marginEnd="8dp"
+                    android:backgroundTint="#00FFFFFF"
+                    android:visibility="visible"
+                    app:layout_constraintBottom_toBottomOf="@+id/ivLocation"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/ivLocation"
+                    app:srcCompat="@drawable/ic_baseline_map_24" />
+
+                <TextView
+                    android:id="@+id/tvDescription"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="8dp"
+                    android:text="@android:string/unknownName"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/ivPhoto" />
+
+                <TextView
+                    android:id="@+id/tvMaxParticipants"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:gravity="center_vertical"
+                    android:text="@android:string/unknownName"
+                    app:layout_constraintBottom_toBottomOf="@+id/ivPerson"
+                    app:layout_constraintEnd_toEndOf="@+id/tvDateTime"
+                    app:layout_constraintStart_toStartOf="@+id/tvDateTime"
+                    app:layout_constraintTop_toTopOf="@+id/ivPerson" />
+
+                <ImageView
+                    android:id="@+id/ivPerson"
+                    android:layout_width="0dp"
+                    android:layout_height="18dp"
+                    android:layout_marginTop="2dp"
+                    app:layout_constraintEnd_toEndOf="@+id/ivCalendar"
+                    app:layout_constraintStart_toStartOf="@+id/ivCalendar"
+                    app:layout_constraintTop_toBottomOf="@+id/ivCalendar"
+                    app:srcCompat="@drawable/ic_baseline_person_124"
+                    app:tint="@color/grey_0" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerViewRequests"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                tools:listitem="@layout/item_event_request">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

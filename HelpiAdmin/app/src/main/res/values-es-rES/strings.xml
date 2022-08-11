@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helpi para administradores</string>
+    <string name="title_events">Eventos</string>
+    <string name="title_password">Contraseña</string>
+    <string name="title_login">Iniciar sesión</string>
+    <string name="login_welcome">"Bienvenido, "</string>
+    <string name="login_error">Error al iniciar sesión</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="signed_out">Sesión cerrada correctamente</string>
+    <string name="required">Obligatorio</string>
+    <string name="password">Contraseña</string>
+    <string name="person_name">Tu nombre</string>
+    <string name="add_user">Añadir usuario organización</string>
+    <string name="auth_failed">La autenticación falló</string>
+    <string name="name_org">Nombre de la organización</string>
+    <string name="email_org">Email de la organización</string>
+    <string name="confirm">Confirmar</string>
+    <string name="profile">Perfil</string>
+    <string name="continue_email">Continuar con correo electrónico</string>
+    <string name="nothing_changed">No has cambiado ningún dato</string>
+    <string name="error_updating_profile">Error actualizando tu perfil. Por favor, inténtalo de nuevo</string>
+    <string name="profile_updated_correctly">Perfil actualizado correctamente</string>
+    <string name="larger_size">El tamaño de la imagen seleccionada es superior a 1 MB. Por favor, seleccione otro y vuelva a intentarlo</string>
+</resources>

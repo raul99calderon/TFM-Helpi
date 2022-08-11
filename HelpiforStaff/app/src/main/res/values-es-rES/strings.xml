@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helpi para staffs</string>
+    <string name="title_events">Eventos</string>
+    <string name="title_password">Contraseña</string>
+    <string name="title_login">Iniciar sesión</string>
+    <string name="login_welcome">"Bienvenido, "</string>
+    <string name="login_error">Error al iniciar sesión</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="signed_out">Sesión cerrada correctamente</string>
+    <string name="required">Obligatorio</string>
+    <string name="password">Contraseña</string>
+    <string name="person_name">Tu nombre</string>
+    <string name="add_user">Añadir usuario de tipo organización</string>
+    <string name="register">Registrarse</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="profile">Perfil</string>
+    <string name="confirm">Confirmar</string>
+    <string name="continue_email">Continuar con correo electrónico</string>
+    <string name="login_google">Continuar con Google</string>
+    <string name="orgs">Mis organizaciones</string>
+    <string name="org_requests">Solicitudes de organizaciones</string>
+    <string name="event_not_started">El evento aún no ha empezado. Cuando llegue la hora, vuelve a entrar en esta pantalla para confirmar la asistencia de los participantes</string>
+    <string name="confirm_user_assist">Confirmar asistencia</string>
+    <string name="error_not_user_role">Este usuario no es de tipo usuario</string>
+    <string name="error_email_not_exists">Este usuario no existe</string>
+    <string name="attendance_already_confirmed">La asistencia de este usuario ya ha sido confirmada anteriormente</string>
+    <string name="user_was_not_accepted">Este usuario no ha sido aceptado para participar en este evento</string>
+    <string name="user_not_requested_join">Este usuario no solicitó participar en el evento</string>
+    <string name="attendance_confirmed_correctly">" ha confirmado su asistencia al evento"</string>
+    <string name="error_confirming_attendance">"Error confirmando "</string>
+    <string name="attend">" asistencia"</string>
+    <string name="account_deleted_correctly">Cuenta eliminada correctamente</string>
+    <string name="nothing_changed">No ha cambiado ningún dato</string>
+    <string name="error_updating_profile">Error actualizando tu perfil. Por favor, inténtalo de nuevo</string>
+    <string name="profile_updated_correctly">Perfil actualizado correctamente</string>
+    <string name="larger_size">El tamaño de la imagen seleccionada es superior a 1 MB. Por favor, seleccione otro y vuelva a intentarlo</string>
+    <string name="event_details">Detalles de evento</string>
+    <string name="organization_details">Detalles de organización</string>
+    <string name="organization_requests">Solicitudes de organizaciones</string>
+    <string name="login_email">Iniciar sesión con email</string>
+    <string name="register_error">Error al registrarse</string>
+</resources>

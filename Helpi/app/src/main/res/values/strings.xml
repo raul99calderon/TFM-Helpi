@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Helpi</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_events">Events</string>
+    <string name="title_notices">Notices</string>
+    <string name="title_ranking">Ranking</string>
+    <string name="title_notice_details">Notice details</string>
+    <string name="title_organization_details">Organization details</string>
+    <string name="title_event_details">Event details</string>
+    <string name="sign_out">Sign out</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="login_google">Continue with Google</string>
+    <string name="login_error">Error in login</string>
+    <string name="register_error">Error in register</string>
+    <string name="login_welcome">Welcome,</string>
+    <string name="signed_out">Signed out correctly</string>
+    <string name="title_organizations">Organizations</string>
+    <string name="profile">Profile</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="required">Required</string>
+    <string name="person_name">Name</string>
+    <string name="continue_email">Continue with email</string>
+    <string name="password">Password</string>
+    <string name="title_login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title_name">Name</string>
+    <string name="title_description">Description</string>
+    <string name="title_location">Location</string>
+    <string name="title_max_participants">Max participants</string>
+    <string name="title_date_time">Date and time</string>
+    <string name="date_time_format" translatable="false">yyyy-MM-dd HH:mm</string>
+    <string name="join_event">Request join event</string>
+    <string name="cancel_join_request">Cancel join request</string>
+    <string name="cancel_participation">I will not assist</string>
+    <string name="tab_events">Events</string>
+    <string name="tab_requests">Requests</string>
+    <string name="tab_attended">Attended events</string>
+    <string name="accepted_join_event">You have been accepted to join event</string>
+    <string name="pending_request">Your request is pending to be accepted</string>
+    <string name="denied_request">Your request has been denied</string>
+    <string name="attended_event">You have attended to the event</string>
+    <string name="delete_account">Delete account</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="request_sent_correctly">Request sent correctly</string>
+    <string name="error_sending_request">Error sending the request. Please try again</string>
+    <string name="request_removed_correctly">Request removed correctly</string>
+    <string name="error_removing_request">Error removing the request. Please try again</string>
+    <string name="package_maps" translatable="false">com.google.android.apps.maps</string>
+    <string name="account_deleted_correctly">Account deleted correctly</string>
+    <string name="nothing_changed">You have changed nothing</string>
+    <string name="error_updating_profile">Error updating your profile, please try again</string>
+    <string name="profile_updated_correctly">Profile updated correctly</string>
+    <string name="larger_size">The size of selected image is greater than 1 MB. Please, select another one and try again</string>
+    <string name="reload_text">You can reload this list by scrolling down</string>
+</resources>
